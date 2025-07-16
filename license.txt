@@ -1,0 +1,6 @@
+{
+    "Owner": "Recep Sıhhıyecioğlu",
+    "LicenseKey": "Alexander Sik Sallandır İndir Kaldır Havalandır",
+    "Expiration": "2025-12-31",
+    "Features": ["Demo Version", "No Ads", "Priority Support"]
+}
