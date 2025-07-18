@@ -1,0 +1,1505 @@
+{
+  "version": "v1.0.0",
+  "files": [
+    {
+      "path": "ayar.dat",
+      "assetName": "ayar.dat",
+      "hash": "b79008e2cee68b58d77d5636f142ab769b8c9323ce6be0311f347e6e49387503"
+    },
+    {
+      "path": "Bread.exe",
+      "assetName": "Bread.exe",
+      "hash": "784b1d5121d0553dce4e2fc8cc1ea5ad80c643cc1a2cf6c463901d88f1d1bf56"
+    },
+    {
+      "path": "hook.exe",
+      "assetName": "hook.exe",
+      "hash": "eed00238c9d3469789e1d12fe8135577e323855783387cf0f1a01887ec674d4f"
+    },
+    {
+      "path": "John_Densmore_1971.png",
+      "assetName": "John_Densmore_1971.png",
+      "hash": "2fe9d91e648ffd8533351218a5243564fe4812329bf5c3889d6b26ba9b2cef75"
+    },
+    {
+      "path": "openal32.dll",
+      "assetName": "openal32.dll",
+      "hash": "e0c2f182672b706659b32b91efbdc5b57a75d24368f5d8d860c130de218aede7"
+    },
+    {
+      "path": "texts/1.dat",
+      "assetName": "1.dat",
+      "hash": "fd334de8b562a4e1dedab2a504b97988e79af1f04b5ded13742d5de73e30d4a5"
+    },
+    {
+      "path": "texts/A.dat",
+      "assetName": "A.dat",
+      "hash": "6ee3d43c4db843ae089d86819014806467dfe5d81b70c13050922799750f79a2"
+    },
+    {
+      "path": "texts/AA.dat",
+      "assetName": "AA.dat",
+      "hash": "3279360972d744c2361cf53fe2ed886670123359fc5467727bfc45c280c5d333"
+    },
+    {
+      "path": "texts/AAA.dat",
+      "assetName": "AAA.dat",
+      "hash": "ef1da8aaeef2c42edd66bcc986093e860d1476389db0042e2e547ceae8d692b1"
+    },
+    {
+      "path": "texts/AAA2.dat",
+      "assetName": "AAA2.dat",
+      "hash": "e2d199449e2d152b69c2ed7386ae6ec8dbd5a8d569c67fceb234077dd2d63167"
+    },
+    {
+      "path": "texts/AAAA.dat",
+      "assetName": "AAAA.dat",
+      "hash": "7ae1437b6c456bfdb359bdf211253524b9d14e529d08b4e8766132bce2e2896f"
+    },
+    {
+      "path": "texts/AAAB.dat",
+      "assetName": "AAAB.dat",
+      "hash": "7ae1437b6c456bfdb359bdf211253524b9d14e529d08b4e8766132bce2e2896f"
+    },
+    {
+      "path": "texts/AAAC.dat",
+      "assetName": "AAAC.dat",
+      "hash": "3ba4f755ebfe3c3e7d7162f968feb74f559f6029d442efe8ad836983ab57cd49"
+    },
+    {
+      "path": "texts/AAAD.dat",
+      "assetName": "AAAD.dat",
+      "hash": "398f5a1db2a3797fa653f5a83165858ab55aaea4f8de452b806f6f309eb77c1c"
+    },
+    {
+      "path": "texts/AAAD2.dat",
+      "assetName": "AAAD2.dat",
+      "hash": "558c4ed6d6f28d171d0dcaf47f8284ecc1299e47c51e215e7fe8c12264af7d1b"
+    },
+    {
+      "path": "texts/AAAlocked.dat",
+      "assetName": "AAAlocked.dat",
+      "hash": "2e63c1d887eecca83e9807d3cdb4de5e8dc23708822666f716cde0a039638c34"
+    },
+    {
+      "path": "texts/AAB.dat",
+      "assetName": "AAB.dat",
+      "hash": "00bd5bb7d8fc825e6b0d4b9b85e5e6300ada9ef3f537626810d80128065fa54f"
+    },
+    {
+      "path": "texts/AABA.dat",
+      "assetName": "AABA.dat",
+      "hash": "91595d4e02ce2a73b5fa9a98316a79e8b259208c59aa0cf22e0a72a893e9bf1b"
+    },
+    {
+      "path": "texts/AABB.dat",
+      "assetName": "AABB.dat",
+      "hash": "e45f4322c58cd7b27b15bb500a57290dde8f4fc14f7ca5021940352784712717"
+    },
+    {
+      "path": "texts/AABC.dat",
+      "assetName": "AABC.dat",
+      "hash": "78691741f5ca362c557c96e1184a81bad7834d492fe52dcc57a0e1a59d3913e2"
+    },
+    {
+      "path": "texts/AABD.dat",
+      "assetName": "AABD.dat",
+      "hash": "c51bf6dcfb5da5acc50b9cd4ce806363ef96a2af31aac29f9ed9a319a6ee9282"
+    },
+    {
+      "path": "texts/AAC.dat",
+      "assetName": "AAC.dat",
+      "hash": "dcbae13db498e4abb3ea6be859a389f9199895c5927911b11daeb2b235445ff7"
+    },
+    {
+      "path": "texts/AAD.dat",
+      "assetName": "AAD.dat",
+      "hash": "f38625ea59c5f586c107dc9fcafa4aa50813547edd5e3405e2b3db412453a4f2"
+    },
+    {
+      "path": "texts/AB.dat",
+      "assetName": "AB.dat",
+      "hash": "91263c28faf4333b3f7ccc43c46984e84a7050ca19264e60fc52f78bfe3d0d3e"
+    },
+    {
+      "path": "texts/ABA.dat",
+      "assetName": "ABA.dat",
+      "hash": "18266abdd33b051f4d03d594a4d9135abb88ef03b63473faeae0e6a6591ae1f1"
+    },
+    {
+      "path": "texts/ABAA.dat",
+      "assetName": "ABAA.dat",
+      "hash": "bad59587ec5fc206fccccd5f2968beda7f377996b3fbee65b5b192dde7a474ef"
+    },
+    {
+      "path": "texts/ABAB.dat",
+      "assetName": "ABAB.dat",
+      "hash": "fb8b389c3656897e09316834efe91751cdf6a4016574e6bf44f39e149371703c"
+    },
+    {
+      "path": "texts/ABAC.dat",
+      "assetName": "ABAC.dat",
+      "hash": "95feaf86f75520f977044951680827aa0de3fc7e72e974000ad6fecd002200b3"
+    },
+    {
+      "path": "texts/ABAD.dat",
+      "assetName": "ABAD.dat",
+      "hash": "045326bd651e874eb19ac8a2be46bb5a0669d6057e98bd4525e255f9d690d060"
+    },
+    {
+      "path": "texts/ABB.dat",
+      "assetName": "ABB.dat",
+      "hash": "554f8740f1cbf1188024550f3c3328d078d39f78d72d09002244ac4efba53103"
+    },
+    {
+      "path": "texts/ABBA.dat",
+      "assetName": "ABBA.dat",
+      "hash": "469e5c8c84f2ba7b7b0813b79b6e5821c6c62dedf313cec2567210a11e7f7e50"
+    },
+    {
+      "path": "texts/ABBAA.dat",
+      "assetName": "ABBAA.dat",
+      "hash": "b833b1ae6bb35ea49e4e0adc75bc8df0b0f17ff1b7ceeb8eb6fb7ef704aeca39"
+    },
+    {
+      "path": "texts/ABBAB.dat",
+      "assetName": "ABBAB.dat",
+      "hash": "12c7de9a0de28d3345163ad7dfd5964eeb80769af07f3c9f3886795d844061df"
+    },
+    {
+      "path": "texts/ABBAC.dat",
+      "assetName": "ABBAC.dat",
+      "hash": "3fde73aa28f1fff608adf36634a543a5123e77f75cefd7c82b5a516bca4200ca"
+    },
+    {
+      "path": "texts/ABBACA.dat",
+      "assetName": "ABBACA.dat",
+      "hash": "5a19d5b4f21dbc77efa323fa0ae7b35b4684336605482c5b67f921546870b6f2"
+    },
+    {
+      "path": "texts/ABBACB.dat",
+      "assetName": "ABBACB.dat",
+      "hash": "9b2b06bcdbaaddaabe95ed98c8027dc72530badbac49d32bf5b8a5ce56501b8c"
+    },
+    {
+      "path": "texts/ABBACC.dat",
+      "assetName": "ABBACC.dat",
+      "hash": "8759017ae576efcd8d069d570ace9267708dda9baaf379316b6e0fdea7d9b36f"
+    },
+    {
+      "path": "texts/ABBACD.dat",
+      "assetName": "ABBACD.dat",
+      "hash": "158c11ecec23083a7a6a4573c6abfba31cc6f21f90ddeba730b30e9c30908d29"
+    },
+    {
+      "path": "texts/ABBAD.dat",
+      "assetName": "ABBAD.dat",
+      "hash": "366e9c6de732a41c97cd692feb7c672187e4b445ebd4e869d14ec55095d2328e"
+    },
+    {
+      "path": "texts/ABBB.dat",
+      "assetName": "ABBB.dat",
+      "hash": "9bb53113a712109d8716a7c2017381edb09eed333c75a4b9bb8a75e6315d6525"
+    },
+    {
+      "path": "texts/ABBC.dat",
+      "assetName": "ABBC.dat",
+      "hash": "fedc2e3ad2f9bcd53d730852a324355b7b40678a0d0d60140f80798a9fe0671e"
+    },
+    {
+      "path": "texts/ABBD.dat",
+      "assetName": "ABBD.dat",
+      "hash": "57c067062f6f562ab464ccf4d2240788cafe1569626d6dc2d1bb36032bdfdecf"
+    },
+    {
+      "path": "texts/ABC.dat",
+      "assetName": "ABC.dat",
+      "hash": "ed49e90ffafcd47588df31d0b6f06d3a26846a07711bea6cdc94c704a7df5415"
+    },
+    {
+      "path": "texts/ABCA.dat",
+      "assetName": "ABCA.dat",
+      "hash": "05f02fd444d77b1b29b44535abf8c97c40ed8e04fc9ad068b24039a515befb2e"
+    },
+    {
+      "path": "texts/ABCB.dat",
+      "assetName": "ABCB.dat",
+      "hash": "22d080181e5339deb50f7663957cbd139ddf83bf878c7d299c3ed1b4440900c1"
+    },
+    {
+      "path": "texts/ABCC.dat",
+      "assetName": "ABCC.dat",
+      "hash": "53f1f39b31a100e87977668442c379c97fbda63a017c967d11473a1e116fa410"
+    },
+    {
+      "path": "texts/ABCD.dat",
+      "assetName": "ABCD.dat",
+      "hash": "75f9529af5e13563fdffb9775988ad77668c66380c4699e17e145dd2e4486570"
+    },
+    {
+      "path": "texts/ABD.dat",
+      "assetName": "ABD.dat",
+      "hash": "d559739b7837082bc9f236e5f18e0d295b66d7ee7ba867e91e70dd73f8cf387f"
+    },
+    {
+      "path": "texts/ABDA.dat",
+      "assetName": "ABDA.dat",
+      "hash": "6ac8083199938409b44ed6a69ae21520169bf873ff85af98f95f67b63f7640b3"
+    },
+    {
+      "path": "texts/ABDB.dat",
+      "assetName": "ABDB.dat",
+      "hash": "407b9d0b706111ef8c2a78e2f1fc2b85162d0b28b7a74ad0bd5a3b4673f5b95e"
+    },
+    {
+      "path": "texts/ABDC.dat",
+      "assetName": "ABDC.dat",
+      "hash": "67e26428ccec179e21bfec929c4ffd5aa7e2ef1264292ba65e88cf89352f1851"
+    },
+    {
+      "path": "texts/ABDD.dat",
+      "assetName": "ABDD.dat",
+      "hash": "c33d159a67e668060001b005d16305034505a5214402852c29eeacff1cf5abe0"
+    },
+    {
+      "path": "texts/AC.dat",
+      "assetName": "AC.dat",
+      "hash": "cbab39fbcc9889f1610b79229ebcf6fb698318217015c87ac2cc0f2a627ea7da"
+    },
+    {
+      "path": "texts/ACA.dat",
+      "assetName": "ACA.dat",
+      "hash": "8b01ceffa2f7c1d35bc80538d2e6ef57ca1fe3fea57c9931c55df05b9b8f6f5e"
+    },
+    {
+      "path": "texts/ACAA.dat",
+      "assetName": "ACAA.dat",
+      "hash": "4246b6e01bf4094ddcda59b0acacc94d694bec57a584711c750e47767d3bc74e"
+    },
+    {
+      "path": "texts/ACAB.dat",
+      "assetName": "ACAB.dat",
+      "hash": "0990f6b36dacc0cf576e8fdf78440cb1485eaebb38e28c1ad886e21bd27b4a82"
+    },
+    {
+      "path": "texts/ACAC.dat",
+      "assetName": "ACAC.dat",
+      "hash": "c66034e1161239e958cd21470113db60b2bf79117336aeffe5dd0830f6af4076"
+    },
+    {
+      "path": "texts/ACAD.dat",
+      "assetName": "ACAD.dat",
+      "hash": "500a2d9eb44163075368b3235cea5048ad5d4c66aa3b8b2e26db90ade30d30a3"
+    },
+    {
+      "path": "texts/ACB.dat",
+      "assetName": "ACB.dat",
+      "hash": "be2cade9a2e630d65ab7113058c67e92d6765c1d977ea77a0fbd97f5ecd5c63c"
+    },
+    {
+      "path": "texts/ACC.dat",
+      "assetName": "ACC.dat",
+      "hash": "efbf611ff37fe34c1d954373763f1b9d78c40dc0c997092b19df8980aa61c124"
+    },
+    {
+      "path": "texts/ACD.dat",
+      "assetName": "ACD.dat",
+      "hash": "0539a2a59c519a9e4686766eaa089be4649f84a5c80fec9cf139da26a1541efc"
+    },
+    {
+      "path": "texts/ACDA.dat",
+      "assetName": "ACDA.dat",
+      "hash": "15c29142ee552778811b2af326266a9f6a4420e18965fb6062a710c27cced145"
+    },
+    {
+      "path": "texts/ACDB.dat",
+      "assetName": "ACDB.dat",
+      "hash": "67aec42900ae0f2826a549b80964b0b35b9070d4f7b5677c8f1e092d0d422f99"
+    },
+    {
+      "path": "texts/ACDC.dat",
+      "assetName": "ACDC.dat",
+      "hash": "61984db6ab154f546f02f7650eed89185b4dee3e22e0a8269f1ddd0b7303109c"
+    },
+    {
+      "path": "texts/ACDD.dat",
+      "assetName": "ACDD.dat",
+      "hash": "54caac3b47cb8298771d87f0dc37b1b2bf1197a9b5a6de163cff5d4a9028ba7c"
+    },
+    {
+      "path": "texts/ACDDA.dat",
+      "assetName": "ACDDA.dat",
+      "hash": "32e2a1104db06d0457a5874cbac3764d818135b62d87adfcdf007906cf0623d6"
+    },
+    {
+      "path": "texts/ACDDB.dat",
+      "assetName": "ACDDB.dat",
+      "hash": "c65e5cd578ced2d4fcc8d95b62780f3efc481df5268e44d682e2d62dc235eacf"
+    },
+    {
+      "path": "texts/ACDDC.dat",
+      "assetName": "ACDDC.dat",
+      "hash": "ef89cd9b217f2e815c441c19a3b1c05f7c8b523d7ff518bfdb608ef169bab830"
+    },
+    {
+      "path": "texts/ACDDD.dat",
+      "assetName": "ACDDD.dat",
+      "hash": "01450b6d7901efa33badc8e09df413b1235ecf58e4760cd29d2c6540dd877784"
+    },
+    {
+      "path": "texts/ACDDD2.dat",
+      "assetName": "ACDDD2.dat",
+      "hash": "6c8b6e968039445532a46a14ee5b818ad0d17f2b90482b06b0cf9cca26d2fbe3"
+    },
+    {
+      "path": "texts/ACDDDA.dat",
+      "assetName": "ACDDDA.dat",
+      "hash": "9cc413fc762e25a6e0adcc3a0fb1249f76c65978dc1fe737f1b7edfa7cec6497"
+    },
+    {
+      "path": "texts/ACDDDAD.dat",
+      "assetName": "ACDDDAD.dat",
+      "hash": "dce1c23f35683c936bfc15266fb0e363d23cd250b6f0981fe7c94e756b207c2a"
+    },
+    {
+      "path": "texts/ACDDDADD.dat",
+      "assetName": "ACDDDADD.dat",
+      "hash": "ba93b7da46ea0342f132562a588f1eebdd56d3b8dbf63a5042c0c597fb3aa719"
+    },
+    {
+      "path": "texts/ACDDDD2.dat",
+      "assetName": "ACDDDD2.dat",
+      "hash": "5e183a6b35e4432d556ed955965c2aca59e2b0cbed05d3ce5c2b77a579263164"
+    },
+    {
+      "path": "texts/ACDDDDD.dat",
+      "assetName": "ACDDDDD.dat",
+      "hash": "b20a9ebfe27a1bf1419f051d7d321bd5dc6dfdc442406f1e82b23e736de909ba"
+    },
+    {
+      "path": "texts/ACDDDDDD.dat",
+      "assetName": "ACDDDDDD.dat",
+      "hash": "f9864f692105992c2ce59d7c820c395cb91ccfbdbee3fcf939d400d643979899"
+    },
+    {
+      "path": "texts/ACDDDDDDD.dat",
+      "assetName": "ACDDDDDDD.dat",
+      "hash": "f33cd8384d1527607633bf561c142aa77ba1aa0a7ab44c56ceb44b37275ad043"
+    },
+    {
+      "path": "texts/ACDDDDDDDD.dat",
+      "assetName": "ACDDDDDDDD.dat",
+      "hash": "c15d012c0aa87022dd9c4c2fbb52668c99dc4d77949d4d8b53694d1d98a37693"
+    },
+    {
+      "path": "texts/ACDDDDDDDDD.dat",
+      "assetName": "ACDDDDDDDDD.dat",
+      "hash": "c1abfa84cfca0cc24c074ae0f0306adc5691df8cf8c9b12c5104abcd6b68384d"
+    },
+    {
+      "path": "texts/AD.dat",
+      "assetName": "AD.dat",
+      "hash": "211f3e6a383d5188cae2b62ee1d04f659b3775563ee9aabb5e818d4e73d3bd99"
+    },
+    {
+      "path": "texts/ADA.dat",
+      "assetName": "ADA.dat",
+      "hash": "bc9e6df64ccd67dabd782162e29df6a4898aa7582081eb5cff8aa8efc25252d8"
+    },
+    {
+      "path": "texts/ADAB.dat",
+      "assetName": "ADAB.dat",
+      "hash": "be02f0c1f4e893fcb121a54fd89eb1f5e9a613a6b83b7808888b3ee9e7557837"
+    },
+    {
+      "path": "texts/ADB.dat",
+      "assetName": "ADB.dat",
+      "hash": "960527d26c9ce119057f95aaa77045c9084a0dc916c95f9c7e1fb53f4a6b3198"
+    },
+    {
+      "path": "texts/ADC.dat",
+      "assetName": "ADC.dat",
+      "hash": "965d69c99c33326a593653d1e9948509184bcbf97fbb707512fd4241511068a3"
+    },
+    {
+      "path": "texts/ADD.dat",
+      "assetName": "ADD.dat",
+      "hash": "4008541cfca0ac502bfe4939bb2c607073b1a6c6d3ebcca4e2471c9da15aa5db"
+    },
+    {
+      "path": "texts/B.dat",
+      "assetName": "B.dat",
+      "hash": "7241005254a697203a7ba417eb2671bf593f350a69878bc7371a2e7fee162ff9"
+    },
+    {
+      "path": "texts/BA.dat",
+      "assetName": "BA.dat",
+      "hash": "9ec71aff606da24f5fd4cfff529e2e2ecc1dc3f4581dde3dbd78f44fdf5c74c3"
+    },
+    {
+      "path": "texts/BAA.dat",
+      "assetName": "BAA.dat",
+      "hash": "20259992099a12756b42253184afa2469f212dac7d98ae0d69fdd34b4f980416"
+    },
+    {
+      "path": "texts/BAB.dat",
+      "assetName": "BAB.dat",
+      "hash": "bbf12822fba619919d0bd489e2c48ee84698530e4c46d59aec7908170f30ac38"
+    },
+    {
+      "path": "texts/BABA.dat",
+      "assetName": "BABA.dat",
+      "hash": "02e3cd1aab8cfbf0466c9cdee345ec88c24bcdacaffa0d2de412edcdcab74efe"
+    },
+    {
+      "path": "texts/BABD.dat",
+      "assetName": "BABD.dat",
+      "hash": "e140c6a2a577d5a0e1b136e78a01675895b388696ef5a117209ee8b56bbc09de"
+    },
+    {
+      "path": "texts/BAC.dat",
+      "assetName": "BAC.dat",
+      "hash": "b74468c3e230279bba8119c7890db1998e7b15a97c7fc54d8069aceb889878e8"
+    },
+    {
+      "path": "texts/BACA.dat",
+      "assetName": "BACA.dat",
+      "hash": "cd8a2a8217fec543ca0513ae6b5e729a9ce8e400b28184866089a81988759fdd"
+    },
+    {
+      "path": "texts/BACB.dat",
+      "assetName": "BACB.dat",
+      "hash": "4b68ece8e363deadd1d097e639651497e6f39eb59e53414de94bfc7d38d8aaa3"
+    },
+    {
+      "path": "texts/BACC.dat",
+      "assetName": "BACC.dat",
+      "hash": "7544314cda1ed294ed63b1d22d45b8f2d22dc0e1943e8d2a33094b4bc91cd37a"
+    },
+    {
+      "path": "texts/BACD.dat",
+      "assetName": "BACD.dat",
+      "hash": "885d28c747e7c9011bf4653ba270ddfaddbf0ccb2f44658123a769ea4700bec2"
+    },
+    {
+      "path": "texts/BAD.dat",
+      "assetName": "BAD.dat",
+      "hash": "884c57e2092e04130c6e6d1b8bd86f45420a7be9977ca6992ce4646acac8fad0"
+    },
+    {
+      "path": "texts/BB.dat",
+      "assetName": "BB.dat",
+      "hash": "a713dbf5e90b1bbc35f0b1dd833af556b0b52928ab7987615beb942fdf9dec57"
+    },
+    {
+      "path": "texts/BBA.dat",
+      "assetName": "BBA.dat",
+      "hash": "89f668c24f163e06658feaf9832dc568d549a1be58981464007eb3a0deb02f2b"
+    },
+    {
+      "path": "texts/BBAA.dat",
+      "assetName": "BBAA.dat",
+      "hash": "cc243ea7708acb967515f776f781d79ce845f5000f40df118584fb474b34cc8a"
+    },
+    {
+      "path": "texts/BBAB.dat",
+      "assetName": "BBAB.dat",
+      "hash": "83b66c9b242d543c1e191eeefd86a33df14b7345250f3f0fdf6d02c8a008b8b9"
+    },
+    {
+      "path": "texts/BBABD.dat",
+      "assetName": "BBABD.dat",
+      "hash": "2950ccacbdfc05e837e5781182d67696e2651ac647a671a001c2f5c419b2a78b"
+    },
+    {
+      "path": "texts/BBAC.dat",
+      "assetName": "BBAC.dat",
+      "hash": "e4caf8b05deb95c880e40c2b7cd2f93f9a356b26c11adb701bb8f4294abfe8cc"
+    },
+    {
+      "path": "texts/BBAD.dat",
+      "assetName": "BBAD.dat",
+      "hash": "50dc6bf8b2f13b485a46c6eff78b870066b97b11bf62c5db8f39f4781af854be"
+    },
+    {
+      "path": "texts/BBADD.dat",
+      "assetName": "BBADD.dat",
+      "hash": "c7d0d534a6c3f0896f19a35529c03281da957e534d94ebaf0b1aa08c358ce5e5"
+    },
+    {
+      "path": "texts/BBB.dat",
+      "assetName": "BBB.dat",
+      "hash": "276692141957384945440d0a2e6a2c9e4d1517af0bd49649af2c7e8f50a5cd3d"
+    },
+    {
+      "path": "texts/BBBA.dat",
+      "assetName": "BBBA.dat",
+      "hash": "137fef05fae965391645796582bdf815fac56b1ea357ad450f54a344a8750f25"
+    },
+    {
+      "path": "texts/BBBB.dat",
+      "assetName": "BBBB.dat",
+      "hash": "b0f7f972896ec68bf36ef7352b5084ad47c84f5cdb5d99a6699a29edc1092982"
+    },
+    {
+      "path": "texts/BBBC.dat",
+      "assetName": "BBBC.dat",
+      "hash": "f4ab956a530b0790f147a7c760766f61c200a3e023fe52e36fa30cc5bfed9e7b"
+    },
+    {
+      "path": "texts/BBBD.dat",
+      "assetName": "BBBD.dat",
+      "hash": "5cff54f31b99a1df026967c0b9b6cf51a619bb8a87e0f7717d7eae4d3da012de"
+    },
+    {
+      "path": "texts/BBC.dat",
+      "assetName": "BBC.dat",
+      "hash": "249c3d089e619931d0267b71471c64c8bc6dfdf7d13de609b038a0f50a010798"
+    },
+    {
+      "path": "texts/BBCA.dat",
+      "assetName": "BBCA.dat",
+      "hash": "6cb57f4644f4fdd161b855e44322e0bafdfc2c1f00faf3a7474718ea86d9931f"
+    },
+    {
+      "path": "texts/BBCB.dat",
+      "assetName": "BBCB.dat",
+      "hash": "7bcd94e9e096cdb6065043175867075859da5a740d1772d43c25dc09373cfdbb"
+    },
+    {
+      "path": "texts/BBCC.dat",
+      "assetName": "BBCC.dat",
+      "hash": "b6179c13e5b2ccbdfac565d031ef36459dcc6de31f695a42ea137c71e718570f"
+    },
+    {
+      "path": "texts/BBCD.dat",
+      "assetName": "BBCD.dat",
+      "hash": "c1a0602aca092451c24469a88267ee08c276c96d4b6a99b3066b8ac965b655f1"
+    },
+    {
+      "path": "texts/BBD.dat",
+      "assetName": "BBD.dat",
+      "hash": "7ca9a02faf8d283e8e0f0a6199a0a2cca4e15211b4ca727343a500d6df11aa13"
+    },
+    {
+      "path": "texts/BBDA.dat",
+      "assetName": "BBDA.dat",
+      "hash": "087d8252c5d58e6c70af23255c7882ec026e36e2a6f18a9d778329862c24ec31"
+    },
+    {
+      "path": "texts/BBDB.dat",
+      "assetName": "BBDB.dat",
+      "hash": "b889f4c2caa634b12e7bd7f53c6da129b9fe65dac3b68b86dcbbdc55c17bf27e"
+    },
+    {
+      "path": "texts/BBDC.dat",
+      "assetName": "BBDC.dat",
+      "hash": "b822d92179b3c9b9e680171ed8501a3f064bd87ac13f85417dc4cb2993b48520"
+    },
+    {
+      "path": "texts/BBDD.dat",
+      "assetName": "BBDD.dat",
+      "hash": "4540667f8e3f0629d83bf20746f723488bebd9805bd72a071612247108fe5016"
+    },
+    {
+      "path": "texts/BC.dat",
+      "assetName": "BC.dat",
+      "hash": "d9967ade8b7059b75922763e1b40e6ec191a7bea00bf353d3e590f7883f5c257"
+    },
+    {
+      "path": "texts/BCA.dat",
+      "assetName": "BCA.dat",
+      "hash": "1679e2c3ff147592db90d577d0c142b0db603e56de1d5598758086b308943de9"
+    },
+    {
+      "path": "texts/BCAA.dat",
+      "assetName": "BCAA.dat",
+      "hash": "1f800bb9e02355e81414dac1a67f3fbd322d85202a593449e2643a7e6b430921"
+    },
+    {
+      "path": "texts/BCAB.dat",
+      "assetName": "BCAB.dat",
+      "hash": "5c4ec73a560208dd2e5a50006373490dee94f8480f01eb108b877e833102d092"
+    },
+    {
+      "path": "texts/BCAC.dat",
+      "assetName": "BCAC.dat",
+      "hash": "d249ad704f286804bda7c3159936c6f5661194dc11097e91a5f73d6de379e998"
+    },
+    {
+      "path": "texts/BCAD.dat",
+      "assetName": "BCAD.dat",
+      "hash": "9347daf953322052888f0fccdf10579bda7a2e845e8b9544c7211ebff5299bcd"
+    },
+    {
+      "path": "texts/BCB.dat",
+      "assetName": "BCB.dat",
+      "hash": "3cfd5ee5d3cf588e851f6351c4ed5b98546c55986090cde6f746fd06a0eb91fd"
+    },
+    {
+      "path": "texts/BCBA.dat",
+      "assetName": "BCBA.dat",
+      "hash": "8b091dd02f31ab08aa457efb10de5342f1233de1c7c8f4418248e5fd4353e189"
+    },
+    {
+      "path": "texts/BCBB.dat",
+      "assetName": "BCBB.dat",
+      "hash": "7cfa675bccab906a3701c53bec5048fd4755d177bf275f0ee9f1d6c790eb4322"
+    },
+    {
+      "path": "texts/BCBC.dat",
+      "assetName": "BCBC.dat",
+      "hash": "ae2fa6bbd5086c4705d94439019c14b096e4dea47af379a30180d838922cde98"
+    },
+    {
+      "path": "texts/BCBD.dat",
+      "assetName": "BCBD.dat",
+      "hash": "7192e50bbb6a2843af047a287aa08917060e56754fe1a2acfbb2ce67c91d5103"
+    },
+    {
+      "path": "texts/BCC.dat",
+      "assetName": "BCC.dat",
+      "hash": "2605d92df38d5725aa5523d730c8552c43beaf975a3c27e8613801e913c6b133"
+    },
+    {
+      "path": "texts/BCCA.dat",
+      "assetName": "BCCA.dat",
+      "hash": "6e11c01dc62573c9da6b55522ecfc14864c33b807f8317911f537abad1133769"
+    },
+    {
+      "path": "texts/BCCB.dat",
+      "assetName": "BCCB.dat",
+      "hash": "bbb08e4a5dffc9dfcaf5976906455cec6f38c8624e525de1f3688a1e2ef1dcce"
+    },
+    {
+      "path": "texts/BCD.dat",
+      "assetName": "BCD.dat",
+      "hash": "0f46c7c9c3bcffa1072d5fd27d0e81fdf4b795ffaf3cac48709cea9f5ef41192"
+    },
+    {
+      "path": "texts/BD.dat",
+      "assetName": "BD.dat",
+      "hash": "689e3eb836597947195e9ac8397a664d41c073bf2d73160d319b2d3fb3dfa1bf"
+    },
+    {
+      "path": "texts/C.dat",
+      "assetName": "C.dat",
+      "hash": "397b58a280b78ab5658eb4abcb9f41b41c25d6633e367b13ec5f7f293f46e53e"
+    },
+    {
+      "path": "texts/CA.dat",
+      "assetName": "CA.dat",
+      "hash": "12cdac6f06755b999ae8856263b62ec91ed57b69b02135418a1eb6f1995f1a52"
+    },
+    {
+      "path": "texts/CAA.dat",
+      "assetName": "CAA.dat",
+      "hash": "5e78416cedef26768d6b5d187367baebc1f35162a511abb6d7aed0378bdc775e"
+    },
+    {
+      "path": "texts/CAAA.dat",
+      "assetName": "CAAA.dat",
+      "hash": "8d265a83f1ea173acc35ee83e76c4432b224a9388e22d39c59569737338f0580"
+    },
+    {
+      "path": "texts/CAAB.dat",
+      "assetName": "CAAB.dat",
+      "hash": "9dc63da0a97a55ce9cc0bf52d857a999b6032e6a3aa7e081f5210a235f515feb"
+    },
+    {
+      "path": "texts/CAAC.dat",
+      "assetName": "CAAC.dat",
+      "hash": "6feb6a384faeaf230ec3bb63cd50cea0c514e9ed272325d9a1a529ce671522ee"
+    },
+    {
+      "path": "texts/CAAD.dat",
+      "assetName": "CAAD.dat",
+      "hash": "49b2d359934b950e55f55aa093e2f5475a4b769ea1a48e37c407deb5d8b406dd"
+    },
+    {
+      "path": "texts/CAB.dat",
+      "assetName": "CAB.dat",
+      "hash": "823607aa6cc0ab7ebacdc78d72d810721dd6c27a9e256d42f8bcc8d6c36a54dd"
+    },
+    {
+      "path": "texts/CABA.dat",
+      "assetName": "CABA.dat",
+      "hash": "793f938b40b9dcb576294bb83a526df2bedc1465a2327c0750b54676f28ded58"
+    },
+    {
+      "path": "texts/CABB.dat",
+      "assetName": "CABB.dat",
+      "hash": "8b8724d6ac37b08bfa73b3a237f22c3bb389b52fc2a821d2ef7731022c1dd97a"
+    },
+    {
+      "path": "texts/CABC.dat",
+      "assetName": "CABC.dat",
+      "hash": "8cbd275174e50d6f1e99cdd7e0e29787ca118f00130061c9281c082deb3b07e5"
+    },
+    {
+      "path": "texts/CABD.dat",
+      "assetName": "CABD.dat",
+      "hash": "6a82ec118467a0dbbe68a027ce18a9b3ae6479fa14520bd37ce14990d80b7d82"
+    },
+    {
+      "path": "texts/CAC.dat",
+      "assetName": "CAC.dat",
+      "hash": "5b538b369181c307f6fe9bd838d8dc8857a3ecd9d55b30f04f056077383ab82b"
+    },
+    {
+      "path": "texts/CACA.dat",
+      "assetName": "CACA.dat",
+      "hash": "382ebe2dd3f2cfa272df3d4043e83275821e8e3a067122978c7c1b19e119badd"
+    },
+    {
+      "path": "texts/CACD.dat",
+      "assetName": "CACD.dat",
+      "hash": "8ee6d256610e93f097a6c445a03452ff0fcb5a7e1ba92a44a2a8f2394c30a219"
+    },
+    {
+      "path": "texts/CACDA.dat",
+      "assetName": "CACDA.dat",
+      "hash": "63858494846d9bc729bac8e8735105093606e97ed83b404abb47866b4bdd9a3c"
+    },
+    {
+      "path": "texts/CACDB.dat",
+      "assetName": "CACDB.dat",
+      "hash": "574b110b73c7ca3c459e2cf3139dd0a40a992a348cc12373bddd7563b06aede0"
+    },
+    {
+      "path": "texts/CACDBD.dat",
+      "assetName": "CACDBD.dat",
+      "hash": "aae8c0df5372baf475a49214f97d425a815a78b05ebad7b4f51f436f340569e7"
+    },
+    {
+      "path": "texts/CAD.dat",
+      "assetName": "CAD.dat",
+      "hash": "edd47cf6e7602b27b8624418788673b2ed4e63eac16c88e27ee8288d5214a2bc"
+    },
+    {
+      "path": "texts/CB.dat",
+      "assetName": "CB.dat",
+      "hash": "3c91c918e1d88de8acaa9639a9294e69e8aa7a03d35bbcd215b81f1be1ff7ac2"
+    },
+    {
+      "path": "texts/CBA.dat",
+      "assetName": "CBA.dat",
+      "hash": "b839dcfa744cbf096c28f4fe66e6e49909a5f18e96a4570e9e1f3ce4f04ddcd1"
+    },
+    {
+      "path": "texts/CBAA.dat",
+      "assetName": "CBAA.dat",
+      "hash": "0ff1f43b455f134d8ad067b9f9b144d574aa81641920806626cf94e6bc51d50f"
+    },
+    {
+      "path": "texts/CBAB.dat",
+      "assetName": "CBAB.dat",
+      "hash": "bbb08e4a5dffc9dfcaf5976906455cec6f38c8624e525de1f3688a1e2ef1dcce"
+    },
+    {
+      "path": "texts/CBAC.dat",
+      "assetName": "CBAC.dat",
+      "hash": "8ec50adb72bea582bbccc09e15d27192418e7a852aab8784e911ab491ad73adc"
+    },
+    {
+      "path": "texts/CBAD.dat",
+      "assetName": "CBAD.dat",
+      "hash": "e71c50ceb4e24b244cb3d4a49e023b014de6c4e56a8de2838ec22fab9bd8ce22"
+    },
+    {
+      "path": "texts/CBB.dat",
+      "assetName": "CBB.dat",
+      "hash": "f20ff1b6511bba9407125ccebf401cc25f11336110a21cb12aa012bdda09df5b"
+    },
+    {
+      "path": "texts/CBC.dat",
+      "assetName": "CBC.dat",
+      "hash": "c16b9f895e0b0e38773bd8d961238019b796dd96202afbc6338c47624bcbf801"
+    },
+    {
+      "path": "texts/CBCB.dat",
+      "assetName": "CBCB.dat",
+      "hash": "dd839877ef71cd28751138b62cd98167a6f107103a19c0085e3dfb600fb426be"
+    },
+    {
+      "path": "texts/CBCC.dat",
+      "assetName": "CBCC.dat",
+      "hash": "701826ada6df6f47f09169bfb38eabfef50eff4711eeaf5bb08f529b519c44d4"
+    },
+    {
+      "path": "texts/CBCD.dat",
+      "assetName": "CBCD.dat",
+      "hash": "d9095182d4a11bcb0b945387c4fab7a03e9eb3e522eca7fe258f900fd78618dd"
+    },
+    {
+      "path": "texts/CBD.dat",
+      "assetName": "CBD.dat",
+      "hash": "03eb5ee688051ca2bfd80bc4399cf27bdc3e6d2e451335d443c0c4b0e78842cd"
+    },
+    {
+      "path": "texts/CBDC.dat",
+      "assetName": "CBDC.dat",
+      "hash": "86739b4f8b5da8d33bcca7918c0076229e8cb7808a84f7c27b84e1c10bf8b8b6"
+    },
+    {
+      "path": "texts/CBDD.dat",
+      "assetName": "CBDD.dat",
+      "hash": "f69f7b9ddcdb6c952b41d809e7dd4536cf4fbe1e33718a93bf0097cb31ee6fe7"
+    },
+    {
+      "path": "texts/CC.dat",
+      "assetName": "CC.dat",
+      "hash": "db5bcb68a5afdf8066353cf24ae2e6ba5cf4b9fc4fd3a16d8c58cdb2881fe612"
+    },
+    {
+      "path": "texts/CCA.dat",
+      "assetName": "CCA.dat",
+      "hash": "a4e33ce306a2b3898c1cd75945331ae3493fb0cb90b5c3bd3a8a77c0664ed0f5"
+    },
+    {
+      "path": "texts/CCAA.dat",
+      "assetName": "CCAA.dat",
+      "hash": "1a0af53f6fcd1197bbdc43fccba642fa4305ad13f1313ae964d8f03c5bbed1e4"
+    },
+    {
+      "path": "texts/CCAB.dat",
+      "assetName": "CCAB.dat",
+      "hash": "a906aa5c09e382c2ee39e1fd05aed474d8a0c607af97512626825c84dea74068"
+    },
+    {
+      "path": "texts/CCAC.dat",
+      "assetName": "CCAC.dat",
+      "hash": "4cc0a272df0ca39941ce856bcb455e39b72c65cb8f49478a54f6fb9f67e6f587"
+    },
+    {
+      "path": "texts/CCAD.dat",
+      "assetName": "CCAD.dat",
+      "hash": "0a49603714adf9cf125f4fbaee4c0cfa6a5ea1ede816d0b3cee6ba18bc701fe3"
+    },
+    {
+      "path": "texts/CCB.dat",
+      "assetName": "CCB.dat",
+      "hash": "780c325a212a24ab1576ec1de3b97a7eb2a4ef0432f477b008da6608825fb8f1"
+    },
+    {
+      "path": "texts/CCBA.dat",
+      "assetName": "CCBA.dat",
+      "hash": "fb7e68fc4040cc64d21defb5f1a416ccf6e2ce695868be309215e02a60022861"
+    },
+    {
+      "path": "texts/CCBC.dat",
+      "assetName": "CCBC.dat",
+      "hash": "cda468e724728d2314b9b712b4473fea9d91037fa6cdbcee7ba0080d50fee66d"
+    },
+    {
+      "path": "texts/CCC.dat",
+      "assetName": "CCC.dat",
+      "hash": "acfeb7046cd78b166f3457ea2f17d5e68a5979fa5ca66f97959009bf08511d1f"
+    },
+    {
+      "path": "texts/CCCC.dat",
+      "assetName": "CCCC.dat",
+      "hash": "57d926f818f1d9c5208c6ad09fc892b3bdf8fd14ec1ee0020d2e1c09a3dbd71b"
+    },
+    {
+      "path": "texts/CCD.dat",
+      "assetName": "CCD.dat",
+      "hash": "57bbde2b821b22416ec05ba73e8d4b05c8dcb2780e7243db62493aedcfe6a65d"
+    },
+    {
+      "path": "texts/CCDA.dat",
+      "assetName": "CCDA.dat",
+      "hash": "dbb7f7a2aab4b64231b0203f75130401312096fabbf499de9cf81af1a1d77543"
+    },
+    {
+      "path": "texts/CCDB.dat",
+      "assetName": "CCDB.dat",
+      "hash": "8e8102c0833c3eddd307ebff493af2e7b1c1bd68082a01a06024802aa3766ac7"
+    },
+    {
+      "path": "texts/CCDC.dat",
+      "assetName": "CCDC.dat",
+      "hash": "65beaa5f0ee4a2e7e83fba7a892751946d25dd5d98f14a13c356a9c28385e1d1"
+    },
+    {
+      "path": "texts/CCDD.dat",
+      "assetName": "CCDD.dat",
+      "hash": "f6d42f56f9f1b0279ad2aeee7753a720c1f3f03c2f7b1a604314ac4b43ab2161"
+    },
+    {
+      "path": "texts/CCDDA.dat",
+      "assetName": "CCDDA.dat",
+      "hash": "dbb7f7a2aab4b64231b0203f75130401312096fabbf499de9cf81af1a1d77543"
+    },
+    {
+      "path": "texts/CCDDB.dat",
+      "assetName": "CCDDB.dat",
+      "hash": "048445b3b4f69b36713d79d6c34d2c20b4fec905689c8dfc5c50ae6d44cfac2f"
+    },
+    {
+      "path": "texts/CCDDC.dat",
+      "assetName": "CCDDC.dat",
+      "hash": "d655627e7079d934d0c07184dc9c01058474e1e1073fd94c803613e046d7622c"
+    },
+    {
+      "path": "texts/CD.dat",
+      "assetName": "CD.dat",
+      "hash": "ac38dd873c2d8bc5c8ea3d280ace344ff81697462a49121d9a0dea3f8cd0bdca"
+    },
+    {
+      "path": "texts/Connect.dat",
+      "assetName": "Connect.dat",
+      "hash": "7cce7c6aaa94f45ee3d902504bdbaeee34ec29fe690f21a3305dc835655612c5"
+    },
+    {
+      "path": "texts/Connect2.dat",
+      "assetName": "Connect2.dat",
+      "hash": "50e7d05ea07e330f78c27b725f460c3a717cc03386bccecd801393df79b43fc7"
+    },
+    {
+      "path": "texts/Disconnect.dat",
+      "assetName": "Disconnect.dat",
+      "hash": "b45613597fdeb744114d6ea3d9374d78e6bc143b8041ff69b04ed7b001f9350f"
+    },
+    {
+      "path": "texts/Disconnect2.dat",
+      "assetName": "Disconnect2.dat",
+      "hash": "12e282fa26c4c9ea0836970517d9a289eb9af450aaea107854b3608be1300a4c"
+    },
+    {
+      "path": "texts/dynamicAnswer.dat",
+      "assetName": "dynamicAnswer.dat",
+      "hash": "67702fc075d701064af5fa0fc1b79ae0a31c581585483027255c8de9d016fa88"
+    },
+    {
+      "path": "texts/kayit.dat",
+      "assetName": "kayit.dat",
+      "hash": "13633dc075c51c1db4fe9e7fc3a6a290914c7ed281e74fc59a5a0a2d80c4e67b"
+    },
+    {
+      "path": "texts/OffensiveUnlock.dat",
+      "assetName": "OffensiveUnlock.dat",
+      "hash": "86e852ad801d94d1ba27f25327f887a1f8cbe07d23f7b45e31797d6fa9281532"
+    },
+    {
+      "path": "texts/Unlock.dat",
+      "assetName": "Unlock.dat",
+      "hash": "dc5430d7461d0f6e72565e3b5620a51c66e683ebbdc5c33fa6ff7d6c984a016d"
+    },
+    {
+      "path": "texts/Wrap.dat",
+      "assetName": "Wrap.dat",
+      "hash": "1a16626847aa8d0adc7cab3d55306bef3bca8f85b48f17eb4b679553f019e45a"
+    },
+    {
+      "path": "sound/effect/effect.wav",
+      "assetName": "effect.wav",
+      "hash": "de3cb55b62fba58dd1e6e3c957b0c2d800e753f0da688cf70c1eb6b02d02c714"
+    },
+    {
+      "path": "sound/effect/effect1.wav",
+      "assetName": "effect1.wav",
+      "hash": "1723bcd1ca0e8451b6dddf116dbbac92d8cbc0cadaca9ecffe8b05b304ee0636"
+    },
+    {
+      "path": "sound/effect/effect10.wav",
+      "assetName": "effect10.wav",
+      "hash": "2a41d96050d36ba13041082cd99d6c9fc9e361591debcea6efdecdcf5e3daccf"
+    },
+    {
+      "path": "sound/effect/effect11.wav",
+      "assetName": "effect11.wav",
+      "hash": "8c050ae2182cc09a29faaa202800b6c130b0be2dbdaa6a1fcefef7c8c7a64740"
+    },
+    {
+      "path": "sound/effect/effect12.wav",
+      "assetName": "effect12.wav",
+      "hash": "5debeccc20d9874694118d9aae84b553a9666ab3c6ef45728364408a2aa7e971"
+    },
+    {
+      "path": "sound/effect/effect13.wav",
+      "assetName": "effect13.wav",
+      "hash": "e9f75aff17dc96d9a637df4d8d1a42bed3d1894bd0f14b7d15af522e07787769"
+    },
+    {
+      "path": "sound/effect/effect14.wav",
+      "assetName": "effect14.wav",
+      "hash": "ffef6f9ca8084915698db35a4b8b155ce07588807e5e4db3597871e77cc03215"
+    },
+    {
+      "path": "sound/effect/effect15.wav",
+      "assetName": "effect15.wav",
+      "hash": "22257d10bd9addb6d235f8f9d2c61eb72f7b726fb56abbbe8557f188f67983af"
+    },
+    {
+      "path": "sound/effect/effect16.wav",
+      "assetName": "effect16.wav",
+      "hash": "9d975a5e3f3467306e253f82dce8af105283adef5b8a0da3f112ac13d20986f8"
+    },
+    {
+      "path": "sound/effect/effect17.wav",
+      "assetName": "effect17.wav",
+      "hash": "5d1e90b093ea09f854e11070c5625540cc67e9ce312e0cc1938b4b4aab4cf5bf"
+    },
+    {
+      "path": "sound/effect/effect2.wav",
+      "assetName": "effect2.wav",
+      "hash": "f386ac47118b1a4e19953193bde057b8da44eb4d481523a3036b29b142297b54"
+    },
+    {
+      "path": "sound/effect/effect3.wav",
+      "assetName": "effect3.wav",
+      "hash": "1c218b0750efb1eabdd8a4287b90b47ad478afdad4069431a0c38f14f304384e"
+    },
+    {
+      "path": "sound/effect/effect4.wav",
+      "assetName": "effect4.wav",
+      "hash": "14ebc1d3495f9cc35c76ddea80bab950b9849add1565415e1734e02af2f8f92f"
+    },
+    {
+      "path": "sound/effect/effect5.wav",
+      "assetName": "effect5.wav",
+      "hash": "f1583ff6579677de9f64a5eddfaecbefd8d5764dadfa0099b0606cd0c819b56b"
+    },
+    {
+      "path": "sound/effect/effect6.wav",
+      "assetName": "effect6.wav",
+      "hash": "451848267a3b34fe163ee5b98d6efbb5cd0ee2985b4893551606b8acd88ab604"
+    },
+    {
+      "path": "sound/effect/effect7.wav",
+      "assetName": "effect7.wav",
+      "hash": "d7b80863f5d35d995fe71d09b74818cf63be3faa785cbdbdc4c93724b89f6308"
+    },
+    {
+      "path": "sound/effect/effect8.wav",
+      "assetName": "effect8.wav",
+      "hash": "528f1114b305d6ce21b25f7aa94b0037f91b266b9902b46d7e76e007bfe2e7d7"
+    },
+    {
+      "path": "sound/effect/effect9.wav",
+      "assetName": "effect9.wav",
+      "hash": "8a4a6454f49aeb4e0f95fd87b57bf607992f732ade96cae4f440d6d970c9ff3b"
+    },
+    {
+      "path": "sound/effect/silence.wav",
+      "assetName": "silence.wav",
+      "hash": "8d2ad9aba718c93a95850fbce51193c1ade729a7690a8d8e2f63c6e8703cc28c"
+    },
+    {
+      "path": "sound/music/breadmusic.mp3",
+      "assetName": "breadmusic.mp3",
+      "hash": "68f81aa69d95ef16e58c1c23c023bf7ae497994efce9860e1643f1a8db96d263"
+    },
+    {
+      "path": "sound/music/breadmusic1.mp3",
+      "assetName": "breadmusic1.mp3",
+      "hash": "0b79e0b39fbebc4d3f00356b4fc32e1892561ac83850e4225f1cff05fa637223"
+    },
+    {
+      "path": "sound/music/breadmusic10.mp3",
+      "assetName": "breadmusic10.mp3",
+      "hash": "43cbc4488a289cc2a57571ae35eb533ac6c2aa2a2b08583fe599d7b204900b58"
+    },
+    {
+      "path": "sound/music/breadmusic11.mp3",
+      "assetName": "breadmusic11.mp3",
+      "hash": "a5e6a11cb78421c50b42a3d1e2d0888cca16d1c2b21df2fbabf1cae86f6c81b4"
+    },
+    {
+      "path": "sound/music/breadmusic12.mp3",
+      "assetName": "breadmusic12.mp3",
+      "hash": "a4f6b312d827d54a7769d5891b64da8f0493f9a08c2867534b9d82c1c5006367"
+    },
+    {
+      "path": "sound/music/breadmusic13.mp3",
+      "assetName": "breadmusic13.mp3",
+      "hash": "08de2c8da9a26335599b7f50c18b634978833f8aa65b06b140ab723b8b109633"
+    },
+    {
+      "path": "sound/music/breadmusic14.mp3",
+      "assetName": "breadmusic14.mp3",
+      "hash": "eecd086a5abd0cbf23a97e01679a108cbb1ddabfdba71d5389a6d4b4b41f9825"
+    },
+    {
+      "path": "sound/music/breadmusic2.mp3",
+      "assetName": "breadmusic2.mp3",
+      "hash": "36f9d321689dd440c9552819dc7d8ff30cf8a650ec52dc8af3041d0f1b6f5a67"
+    },
+    {
+      "path": "sound/music/breadmusic3.mp3",
+      "assetName": "breadmusic3.mp3",
+      "hash": "6454bc07a1a3b0b00e59c01965d950a964eac8a4e6594f5016b769cd77d13e52"
+    },
+    {
+      "path": "sound/music/breadmusic30.mp3",
+      "assetName": "breadmusic30.mp3",
+      "hash": "e680a0beff8b28a9fde08159805baf9d44d1d9d84198e0fbd12f0ca67a61fcae"
+    },
+    {
+      "path": "sound/music/breadmusic4.mp3",
+      "assetName": "breadmusic4.mp3",
+      "hash": "b25690c5296d3fd27f2106814d9c75b925aff72828863b8f1609ec0e9ff8aedf"
+    },
+    {
+      "path": "sound/music/breadmusic5.mp3",
+      "assetName": "breadmusic5.mp3",
+      "hash": "3b218dc4958d559122a3915d0cb5ad7225bf0d0185466b0cdafa2a73251b49eb"
+    },
+    {
+      "path": "sound/music/breadmusic6.mp3",
+      "assetName": "breadmusic6.mp3",
+      "hash": "a76c8cd3c02886cffbdf39eeffe790168779f399235d70c5ef1af1655e7c477e"
+    },
+    {
+      "path": "sound/music/breadmusic7.mp3",
+      "assetName": "breadmusic7.mp3",
+      "hash": "a045dba0cd5d9c374dd92af0dedab0a01bbaa98049f2419965ecfb822cd1aa91"
+    },
+    {
+      "path": "sound/music/breadmusic8.mp3",
+      "assetName": "breadmusic8.mp3",
+      "hash": "437b9b53f83d8faf0cf8aaf846292dccc79f9cf83709039345d78a421ab667f2"
+    },
+    {
+      "path": "sound/music/breadmusic9.mp3",
+      "assetName": "breadmusic9.mp3",
+      "hash": "15a192a3bf0ddeede9464f648a67897aacd69956ff8946a5e8063074fbd55832"
+    },
+    {
+      "path": "sound/music/peaks/abreadmusic10.mp3",
+      "assetName": "abreadmusic10.mp3",
+      "hash": "b75304f2d8daaee966c312132317d38dd79406f3d4895ccc7902966f783174e0"
+    },
+    {
+      "path": "sound/music/peaks/as.mp3",
+      "assetName": "as.mp3",
+      "hash": "f5d1b5c62b0366341fb750b60f8cf7f30344131e87699be2577cc9a6bdee9352"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic1.mp3",
+      "assetName": "breadmusic1.mp3",
+      "hash": "ec0637b1af0bcad0581642fe04cf8c1bb00f3cd2e2c1837f94febaa34c98fbba"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic1.mp3.reapeaks",
+      "assetName": "breadmusic1.mp3.reapeaks",
+      "hash": "5217ebfafa22bdfd6b1ccd58dac88ee64ba6024137ef7dc77c241bfc55f2d3d6"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic10.mp3.reapeaks",
+      "assetName": "breadmusic10.mp3.reapeaks",
+      "hash": "66808a90ddcd277dfb6e311daf378d31aa3c99a43738664e9f980f8a72db156e"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic12.mp3.reapeaks",
+      "assetName": "breadmusic12.mp3.reapeaks",
+      "hash": "d75dfbe03664993b5fd5c690fa4a6be05f6de7f7c4c37791bbb7d0cdf503c685"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic12.wav",
+      "assetName": "breadmusic12.wav",
+      "hash": "5e9f3fa135de517daeccb0906a35615e4c6cc5d4b5d6f7622a62565e2910e70e"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic12as.mp3",
+      "assetName": "breadmusic12as.mp3",
+      "hash": "c7f94a7e857bb650c6e71ee78f6efe4b746983c3b0ca75610dcb8272551d3a63"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic13.mp3",
+      "assetName": "breadmusic13.mp3",
+      "hash": "2bc1adf5fbb629e6ea01e9db6dabd5073c6597fd1ee7339dd18658b3e01efdf3"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic13.mp3.reapeaks",
+      "assetName": "breadmusic13.mp3.reapeaks",
+      "hash": "4f2c445c8fa7239337b149bfa77e65ed3aab2a9159fd4150d71104e977a3f398"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic14.wav.reapeaks",
+      "assetName": "breadmusic14.wav.reapeaks",
+      "hash": "110ad27549ec1a488eb6d6825c61c8c0d45bd4464b12f7f595eb0a6d09d39f20"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic1y.mp3",
+      "assetName": "breadmusic1y.mp3",
+      "hash": "25d07875fba965aff2a9190b19e077e9f130fdbaa49f9b39e4f8af631428a590"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic3.mp3.reapeaks",
+      "assetName": "breadmusic3.mp3.reapeaks",
+      "hash": "2b86b184193027a07fbc2ab3e00682a9edcfa5f21ac04b1d3f2ed7c4af266e52"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic5.mp3.reapeaks",
+      "assetName": "breadmusic5.mp3.reapeaks",
+      "hash": "bdea6ac6c23b714812334ea17633c0af3e8dc5e2579e83db1c343fee87d0c8e4"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic8.mp3.reapeaks",
+      "assetName": "breadmusic8.mp3.reapeaks",
+      "hash": "45242c7d0f91bfdfcd9b80b8d416319ed1a4d601129f928ecf3682705d5a5eb8"
+    },
+    {
+      "path": "sound/music/peaks/breadmusic9.mp3.reapeaks",
+      "assetName": "breadmusic9.mp3.reapeaks",
+      "hash": "62d1fcca58e928d4d2438922b2dbee44c0fc6166b2a3210b26ed39d726025a5b"
+    },
+    {
+      "path": "sound/effect/keyboard/backspace1.wav",
+      "assetName": "backspace1.wav",
+      "hash": "2ed3fefd76056f314aa1deddfaa9de2a2e2a47682bf497dbe40e157223ed070d"
+    },
+    {
+      "path": "sound/effect/keyboard/backspace2.wav",
+      "assetName": "backspace2.wav",
+      "hash": "499f7b7609140a01dbea132c8fcf61d236990f97fce94a120055cf9700d6d7ab"
+    },
+    {
+      "path": "sound/effect/keyboard/backspace3.wav",
+      "assetName": "backspace3.wav",
+      "hash": "8770db655cb750b516e42dc99ebb0f00a0568be460b618f18ee572db0954a35c"
+    },
+    {
+      "path": "sound/effect/keyboard/enter.wav",
+      "assetName": "enter.wav",
+      "hash": "ec79c2578001d6df6e528124296a2835ef2f7cf8d4a434691bc0e7f54b5a7ddd"
+    },
+    {
+      "path": "sound/effect/keyboard/key1.wav",
+      "assetName": "key1.wav",
+      "hash": "c151b90a047ed9d6e99e659c97a50108e151894f2bab36ba1b951c8938b2cbab"
+    },
+    {
+      "path": "sound/effect/keyboard/key2.wav",
+      "assetName": "key2.wav",
+      "hash": "b34e9c02da08b5fb4ac8bdaf7eaf64d710cdef6699f1e48595d5972b579641c8"
+    },
+    {
+      "path": "sound/effect/keyboard/key3.wav",
+      "assetName": "key3.wav",
+      "hash": "5076f50636b337d0016ffc51bda28f0d3cd96638cfc8b41a9d5cf8d4e88b6c4c"
+    },
+    {
+      "path": "sound/effect/keyboard/space1.wav",
+      "assetName": "space1.wav",
+      "hash": "3b7da728fdb455558410fd28710faa57391c9bd9790e5e96f97e5eb22e836c8f"
+    },
+    {
+      "path": "sound/effect/keyboard/space2.wav",
+      "assetName": "space2.wav",
+      "hash": "286aa35ff086b1d845847c2894a576da1de53bc01f8f0dc5bb22d4998b488224"
+    },
+    {
+      "path": "sound/effect/keyboard/space3.wav",
+      "assetName": "space3.wav",
+      "hash": "b360a4701a3fb0f4a3433388ef1ab2a9835314883f8c337d9b588b1cfe89f674"
+    },
+    {
+      "path": "sound/effect/peaks/bu da cok guzel oldu ama ise yaramaz bizim sesimiz niye bu kadar ince dusuncesini akla getiriyor cunku.wav",
+      "assetName": "bu da cok guzel oldu ama ise yaramaz bizim sesimiz niye bu kadar ince dusuncesini akla getiriyor cunku.wav",
+      "hash": "ead7d9e0af7a18a3559694624a3bb06fee0caa5458be16d9f7ebe298fae7e7f5"
+    },
+    {
+      "path": "sound/effect/peaks/efefect1.wav",
+      "assetName": "efefect1.wav",
+      "hash": "e6460a46b3df98f6623c597ce78f2dd05d7ae01bf2b9f850f9588390d0578e00"
+    },
+    {
+      "path": "sound/effect/peaks/effec1.wav",
+      "assetName": "effec1.wav",
+      "hash": "79a3b6dd83518c5f33dcb1c6c577cedf85a3b49d4e8cabda12cd1cd8daaff733"
+    },
+    {
+      "path": "sound/effect/peaks/effect.wav.reapeaks",
+      "assetName": "effect.wav.reapeaks",
+      "hash": "c50d53601a2c9f461d02006c6101f615463a282de659ecf0c16ac08981328b7e"
+    },
+    {
+      "path": "sound/effect/peaks/effect1.wav",
+      "assetName": "effect1.wav",
+      "hash": "b24202b9596dee6ee932812e6769e2f48507900ce876a58a230d1cc1b6a0abcf"
+    },
+    {
+      "path": "sound/effect/peaks/effect1.wav.reapeaks",
+      "assetName": "effect1.wav.reapeaks",
+      "hash": "7f925ffbf987265160c3f061f840234afd1589029f002f5cb72554b6ecfa9b55"
+    },
+    {
+      "path": "sound/effect/peaks/effect16.wav",
+      "assetName": "effect16.wav",
+      "hash": "e63acca44b100680d493e94749fdbd3a476387e31b74a851d1e9553e8492ae84"
+    },
+    {
+      "path": "sound/effect/peaks/effect16.wav.reapeaks",
+      "assetName": "effect16.wav.reapeaks",
+      "hash": "2928e2b79ddba1c9b008f0a2f80c9c768e3a2ef34313acfce9304755f1987105"
+    },
+    {
+      "path": "sound/effect/peaks/effect16b.wav",
+      "assetName": "effect16b.wav",
+      "hash": "10174609ff46956a9c9b44c66bbcffba4c29ec960a52351099260a54a7e56f89"
+    },
+    {
+      "path": "sound/effect/peaks/effect1asf.wav",
+      "assetName": "effect1asf.wav",
+      "hash": "9b72d2f9f6c606b79785688371f29c35ed03e366f324b42ee999aa22059fe1e7"
+    },
+    {
+      "path": "sound/effect/peaks/effect1b.wav",
+      "assetName": "effect1b.wav",
+      "hash": "4440c47659efcc510648576a0072651fbde5815fe9663cc8381aed17d54b417e"
+    },
+    {
+      "path": "sound/effect/peaks/effect1bsoivs.wav",
+      "assetName": "effect1bsoivs.wav",
+      "hash": "c9ce66d5f199bb5188bc1193583da8dcff703f9765dc9597ccf141e4fc0f782f"
+    },
+    {
+      "path": "sound/effect/peaks/effect1o.wav",
+      "assetName": "effect1o.wav",
+      "hash": "80aa5622ef4c70f4d2128d9f142a146c494a251feec1f4613c0fc1bf7976b6b0"
+    },
+    {
+      "path": "sound/effect/peaks/effect1oa.wav",
+      "assetName": "effect1oa.wav",
+      "hash": "02a72df5378ee8439b0ec596dcec3590d092d1155b7b9ce8f3cbddac1e519327"
+    },
+    {
+      "path": "sound/effect/peaks/effect1oa.wav.reapeaks",
+      "assetName": "effect1oa.wav.reapeaks",
+      "hash": "d627e0790f1e597ab4b533f3af84c2ff4d9289468fc4353fbac2439975a328ae"
+    },
+    {
+      "path": "sound/effect/peaks/effect1oivs.wav",
+      "assetName": "effect1oivs.wav",
+      "hash": "43dac4e0c9554c2cba9871a68e240127537affb99d6043dbe58c50552c7105d4"
+    },
+    {
+      "path": "sound/effect/peaks/effect1s.wav",
+      "assetName": "effect1s.wav",
+      "hash": "54e314a164a9a5fe3073a867ea5b899fe00605102bdc468fd456f281c9e2b143"
+    },
+    {
+      "path": "sound/effect/peaks/effect2.wav",
+      "assetName": "effect2.wav",
+      "hash": "751ce686b3ab069edd38e32195771226f395e8c69e61ce5f999a736b263479cb"
+    },
+    {
+      "path": "sound/effect/peaks/effect2.wav.reapeaks",
+      "assetName": "effect2.wav.reapeaks",
+      "hash": "02be737930a8beaef2214a253b61e11b7c25af89cf02d1b867ea18fdaea9c164"
+    },
+    {
+      "path": "sound/effect/peaks/effect2bb.wav",
+      "assetName": "effect2bb.wav",
+      "hash": "b81d625f59a745879415f76098a516507f305af1e043024c04fc735a8e913d2d"
+    },
+    {
+      "path": "sound/effect/peaks/effect2bdb.wav",
+      "assetName": "effect2bdb.wav",
+      "hash": "a034cd59275a4673aae929bbdb6191e9148a86729fe006568ccae564f63cbc53"
+    },
+    {
+      "path": "sound/effect/peaks/effect2n.mp3",
+      "assetName": "effect2n.mp3",
+      "hash": "2bdf2b587f3b66961509a49f45f1ae56f54a07462c4f1563501363e605bcbaf4"
+    },
+    {
+      "path": "sound/effect/peaks/effect2n.wav",
+      "assetName": "effect2n.wav",
+      "hash": "ab59522468783715d9e3b594e3884cd9382aa61c26990022833c635e62791c38"
+    },
+    {
+      "path": "sound/effect/peaks/effect2n.wav.reapeaks",
+      "assetName": "effect2n.wav.reapeaks",
+      "hash": "0bec99caad21b479e78ba708952ad3a57936e9e10e8f37523151df37e29472c0"
+    },
+    {
+      "path": "sound/effect/peaks/effect3.wav",
+      "assetName": "effect3.wav",
+      "hash": "ad8484b6870478a5c7d966235cda0a1d13aebd9009e1d9bc8c386be481e6d3b6"
+    },
+    {
+      "path": "sound/effect/peaks/effect3.wav.reapeaks",
+      "assetName": "effect3.wav.reapeaks",
+      "hash": "0dfa7fed9bc08f3c186266860ac2c12a613162a2d0501c08fa5f054817321f88"
+    },
+    {
+      "path": "sound/effect/peaks/effect3ssssss.wav",
+      "assetName": "effect3ssssss.wav",
+      "hash": "ee041221a5ee5c50de5be8ec698a88fb451a2a0a0bf2c7ab94a14ac5302e56c8"
+    },
+    {
+      "path": "sound/effect/peaks/effect4.wav",
+      "assetName": "effect4.wav",
+      "hash": "eeed8bb88aa004dcd2d4b10af8589950015442a887c40167190caf0b16fc2564"
+    },
+    {
+      "path": "sound/effect/peaks/effect4.wav.reapeaks",
+      "assetName": "effect4.wav.reapeaks",
+      "hash": "aba43b12c95ff0a418d60cdb63dbb8dfb037d5021eda6fb8cfbcc53fb2d45ba8"
+    },
+    {
+      "path": "sound/effect/peaks/effect4caf.wav",
+      "assetName": "effect4caf.wav",
+      "hash": "3b88f15760fc6e2c1daada1dd69bfc4c10606f1791391c2dd2183abba6b49187"
+    },
+    {
+      "path": "sound/effect/peaks/effect4e.wav",
+      "assetName": "effect4e.wav",
+      "hash": "4c8697cb8bf3ac2922846f7b2435ff963df68213dc3136d70dbc17ff4b600842"
+    },
+    {
+      "path": "sound/effect/peaks/effect4sbö.wav",
+      "assetName": "effect4sbö.wav",
+      "hash": "0a91fa5bdfe8c5120c36a56e9b107db7a751b6bb447ce14cce969ed524316cb6"
+    },
+    {
+      "path": "sound/effect/peaks/effect4vallaha.wav",
+      "assetName": "effect4vallaha.wav",
+      "hash": "eeed8bb88aa004dcd2d4b10af8589950015442a887c40167190caf0b16fc2564"
+    },
+    {
+      "path": "sound/effect/peaks/effect4z.wav",
+      "assetName": "effect4z.wav",
+      "hash": "c9a7b537d83e536c6f9b99638809565fcc58d556cc854c29a71c0fba9d147a4a"
+    },
+    {
+      "path": "sound/effect/peaks/effect7.wav",
+      "assetName": "effect7.wav",
+      "hash": "34d9d12349bef7bcf24226fe0a54730e56464af3e647a155033d5584c268f51d"
+    },
+    {
+      "path": "sound/effect/peaks/effect7.wav.reapeaks",
+      "assetName": "effect7.wav.reapeaks",
+      "hash": "08e3d71aae9c98c8e40af412917ed65af9120ef7fb78b7255cf8cb829b5e3be9"
+    },
+    {
+      "path": "sound/effect/peaks/effect7n.wav",
+      "assetName": "effect7n.wav",
+      "hash": "6bc0f6864c3c1dc1304f404a3f70bc421f508ae978ae72b4dc792fa5af620ab0"
+    },
+    {
+      "path": "sound/effect/peaks/effect7o.wav",
+      "assetName": "effect7o.wav",
+      "hash": "da962ae94784dd0fd0f183bd351e757a1ae45117ee46af739e02cf6df138162d"
+    },
+    {
+      "path": "sound/effect/peaks/effect8.wav",
+      "assetName": "effect8.wav",
+      "hash": "be7a6e3fd15491e34462368d3f2c6e0ac23a94fc286febff78e19540f5fc314a"
+    },
+    {
+      "path": "sound/effect/peaks/effecta.wav",
+      "assetName": "effecta.wav",
+      "hash": "e74ddfa560d4aa1cc2abb07c2b6413bc4dc79b52362462d0cad4208ffe2d5437"
+    },
+    {
+      "path": "sound/effect/peaks/silence.wav.reapeaks",
+      "assetName": "silence.wav.reapeaks",
+      "hash": "53725cf35acf1e937edc2b7a6781457356ff75259f67a8567e9cb3781ba115d3"
+    }
+  ]
+}
