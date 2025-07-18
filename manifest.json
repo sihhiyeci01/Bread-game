@@ -1,20 +1,20 @@
 {
-  "version": "v1.0.7",
+  "version": "v1.1.5",
   "files": [
     {
       "path": "ayar.dat",
       "assetName": "ayar.dat",
-      "hash": "51949916957cb6eff6bf67642e6d89ed6a8bcaba46e6310318891675099a8b28"
+      "hash": "b79008e2cee68b58d77d5636f142ab769b8c9323ce6be0311f347e6e49387503"
     },
     {
       "path": "Bread.exe",
       "assetName": "Bread.exe",
-      "hash": "b9c460cc015387f01638e0ecda4243e80570d4509a6367f7a0d432ec4e17b018"
+      "hash": "784b1d5121d0553dce4e2fc8cc1ea5ad80c643cc1a2cf6c463901d88f1d1bf56"
     },
     {
       "path": "hook.exe",
       "assetName": "hook.exe",
-      "hash": "ad91fb6001bf35606ad62a2e2d1496941993283d1f620b262084bc8ccffd062d"
+      "hash": "eed00238c9d3469789e1d12fe8135577e323855783387cf0f1a01887ec674d4f"
     },
     {
       "path": "John_Densmore_1971.png",
@@ -32,21 +32,6 @@
       "hash": "fe9fe5a4aecc8a0c5bd5e0b954a80fcacb67d49d5132196181decb599b20e3ad"
     },
     {
-      "path": "sfml-audio-2.dll",
-      "assetName": "sfml-audio-2.dll",
-      "hash": "d0993f038d8da1c1da4b0521ca9a4ab44b068b1f64a4af50a7fb85bb85d2ed59"
-    },
-    {
-      "path": "sfml-network-2.dll",
-      "assetName": "sfml-network-2.dll",
-      "hash": "ccffdd7a216622925df9a7d53d4456741279a05bd1dfd2c17931ce4d35e7507c"
-    },
-    {
-      "path": "sfml-system-2.dll",
-      "assetName": "sfml-system-2.dll",
-      "hash": "0b80d28d2f5521ac7a87b81bd9d2b4aaaa0f55b13e3fc2d4dffad02ba8aaf6c3"
-    },
-    {
       "path": "updater.exe",
       "assetName": "updater.exe",
       "hash": "a1ba546ef4fe85a8601c4f874673bcd6339039773a93bca3997708fb1fecd9a1"
@@ -54,7 +39,7 @@
     {
       "path": "texts/1.dat",
       "assetName": "1.dat",
-      "hash": "4a2689c7c17839afd6d6ee5e96dcbe22ff6e4382e27fde081d169535da617798"
+      "hash": "768c56bbbbc07880fe462b8c2a6d1494501a82b092a2eaaafc329b337ec36319"
     },
     {
       "path": "texts/A.dat",
@@ -994,7 +979,7 @@
     {
       "path": "texts/dynamicAnswer.dat",
       "assetName": "dynamicAnswer.dat",
-      "hash": "50ae8a4d34ba594b282e46c42a297f4625296b5dff9bce1aabaef407748ded7d"
+      "hash": "67702fc075d701064af5fa0fc1b79ae0a31c581585483027255c8de9d016fa88"
     },
     {
       "path": "texts/kayit.dat",
