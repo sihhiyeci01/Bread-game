@@ -12,7 +12,7 @@
 #include <cstring>
 #include <curl/curl.h>
 #include <nlohmann/json.hpp>
-#include <openssl/sha.h>
+#include <openssl/evp.h>
 
 namespace fs = std::filesystem;
 using json = nlohmann::json;
@@ -51,25 +51,42 @@ static bool download_url_to_file(const std::string& url, const fs::path& dst) {
     return true;
 }
 
-// Compute SHA-256 of a file
+// Compute SHA-256 of a file using OpenSSL EVP
 static std::string sha256_of_file(const fs::path& path) {
     std::ifstream in(path, std::ios::binary);
     if (!in) {
         std::cerr << "Error opening file to hash: " << path << std::endl;
         return {};
     }
-    SHA256_CTX ctx;
-    SHA256_Init(&ctx);
+    EVP_MD_CTX* ctx = EVP_MD_CTX_new();
+    if (!ctx) {
+        std::cerr << "Error creating EVP_MD_CTX" << std::endl;
+        return {};
+    }
+    if (EVP_DigestInit_ex(ctx, EVP_sha256(), nullptr) != 1) {
+        std::cerr << "Error initializing digest" << std::endl;
+        EVP_MD_CTX_free(ctx);
+        return {};
+    }
     char buffer[8192];
     while (in.read(buffer, sizeof(buffer))) {
-        SHA256_Update(&ctx, buffer, in.gcount());
+        EVP_DigestUpdate(ctx, buffer, in.gcount());
     }
-    SHA256_Update(&ctx, buffer, in.gcount());
-    unsigned char hashBuf[SHA256_DIGEST_LENGTH];
-    SHA256_Final(hashBuf, &ctx);
+    if (in.gcount() > 0) {
+        EVP_DigestUpdate(ctx, buffer, in.gcount());
+    }
+    unsigned char hashBuf[EVP_MAX_MD_SIZE];
+    unsigned int len = 0;
+    if (EVP_DigestFinal_ex(ctx, hashBuf, &len) != 1) {
+        std::cerr << "Error finalizing digest" << std::endl;
+        EVP_MD_CTX_free(ctx);
+        return {};
+    }
+    EVP_MD_CTX_free(ctx);
     std::ostringstream os;
-    for (auto b : hashBuf) {
-        os << std::hex << std::setw(2) << std::setfill('0') << (int)b;
+    os << std::hex << std::setw(2) << std::setfill('0');
+    for (unsigned int i = 0; i < len; ++i) {
+        os << (int)hashBuf[i];
     }
     return os.str();
 }
@@ -150,7 +167,7 @@ int main() {
         }
 
         // 4) Map local hashes
-        std::map<std::string,std::string> localHashes;
+        std::map<std::string, std::string> localHashes;
         for (auto& f : localM["files"]) {
             localHashes[f["path"].get<std::string>()] = f["hash"].get<std::string>();
         }
@@ -170,6 +187,7 @@ int main() {
 
         // 6) If no update needed, exit silently
         if (toUpdate.empty()) {
+            std::cout << "No updates found; exiting." << std::endl;
             return 0;
         }
 
@@ -177,20 +195,22 @@ int main() {
         for (auto& fe : toUpdate) {
             fs::path dst = tempDir / fe.path;
             fs::create_directories(dst.parent_path());
-            std::string url = "https://github.com/sihhiyeci01/Bread-game/releases/download/"
-                              + version + "/" + fe.assetName;
+            std::string url = "https://github.com/sihhiyeci01/Bread-game/releases/download/" + version + "/" + fe.assetName;
+            std::cout << "Downloading " << fe.assetName << " from " << url << std::endl;
             if (!download_url_to_file(url, dst)) {
                 std::cerr << "Error downloading " << fe.assetName << std::endl;
                 return 1;
             }
+            std::cout << "Computing SHA-256 for " << fe.assetName << std::endl;
             std::string fileHash = sha256_of_file(dst);
             if (fileHash.empty() || fileHash != fe.hash) {
-                std::cerr << "Hash mismatch for " << fe.assetName << std::endl;
+                std::cerr << "Hash mismatch for " << fe.assetName << ": expected " << fe.hash << ", got " << fileHash << std::endl;
                 return 1;
             }
         }
 
         // 8) Terminate running game
+        std::cout << "Terminating running instances of Bread.exe..." << std::endl;
         terminate_process("Bread.exe");
 
         // 9) Replace files and update manifest
@@ -203,6 +223,7 @@ int main() {
         fs::rename(remoteManifest, localManifest);
 
         // 10) Restart the game once after update
+        std::cout << "Restarting Bread.exe..." << std::endl;
         STARTUPINFOW si{};
         si.cb = sizeof(si);
         si.dwFlags = STARTF_USESHOWWINDOW;
@@ -220,9 +241,9 @@ int main() {
         CloseHandle(pi.hProcess);
         CloseHandle(pi.hThread);
 
+        std::cout << "Update completed successfully." << std::endl;
         return 0;
-    }
-    catch (const std::exception& ex) {
+    } catch (const std::exception& ex) {
         std::cerr << "Exception: " << ex.what() << std::endl;
         return 1;
     }

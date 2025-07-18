@@ -51,7 +51,8 @@ def generate_manifest(root_dir, version):
 
 if __name__ == "__main__":
     build_directory = "C:/Users/ronit/Desktop/breadsexe"
-    version = "v1.1.5"
+
+    version = "v1.0.0"
     manifest = generate_manifest(build_directory, version)
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)

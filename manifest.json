@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.5",
+  "version": "v1.0.0",
   "files": [
     {
       "path": "ayar.dat",
@@ -39,7 +39,7 @@
     {
       "path": "texts/1.dat",
       "assetName": "1.dat",
-      "hash": "768c56bbbbc07880fe462b8c2a6d1494501a82b092a2eaaafc329b337ec36319"
+      "hash": "61a6b38cca2ec411e7165ade7aaafcf58a86d965eea4c59b1eeaacf9b1b26e3a"
     },
     {
       "path": "texts/A.dat",
